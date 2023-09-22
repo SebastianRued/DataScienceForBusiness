@@ -1,12 +1,14 @@
 # Markdown of the PostgresSQL exercises
 - For the course Data Science for Business
 
+<img alt="Postgres_logo" height="150" src="C:\Users\Ssrue\OneDrive\Pictures\DataSciense SQL\PostgresSQL_Logo.png" width="300"/>
 
 ## Goodreads_v2 exercise
 
-###### The link for the exercise can be found on the following link:
 
-<https://troelsmortensen.github.io/CodeLabs/Tutorials/GoodreadsExercises/Page.html>
+***The link for the exercise can be found on the following link:***
+
+[Goodreads_v2 exercises](https://troelsmortensen.github.io/CodeLabs/Tutorials/GoodreadsExercises/Page.html)
 
 ----
 ### Exercise 2: 
