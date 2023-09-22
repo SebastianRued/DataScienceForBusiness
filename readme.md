@@ -1,6 +1,5 @@
 # Markdown of the PostgresSQL exercises
-###### - For the course Data Science for Business
-
+- For the course Data Science for Business
 
 
 ## Goodreads_v2 exercise
