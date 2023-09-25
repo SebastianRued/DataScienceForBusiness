@@ -20,6 +20,7 @@
                 <name qname="webshop" />
                 <name qname="goodreads_v2" />
                 <name qname="dreamhouse" />
+                <name qname="dvdrental" />
               </node>
             </node>
           </node>

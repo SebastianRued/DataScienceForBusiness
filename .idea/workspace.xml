@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1357316-1677-4f73-b5ea-deb63eb329a8" name="Changes" comment="My first commit">
+    <list default="true" id="b1357316-1677-4f73-b5ea-deb63eb329a8" name="Changes" comment="Renaming of readme file to Goodreadv2_Exercises.md">
+      <change afterPath="$PROJECT_DIR$/Dreamhouse_2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DvdRental.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamhouse.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dreamhouse.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple_imdb.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webshop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4bf534fb-d6ae-48f3-a892-6b97fa93914e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4bf534fb-d6ae-48f3-a892-6b97fa93914e.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4bf534fb-d6ae-48f3-a892-6b97fa93914e/storage_v2/_src_/database/postgres.edMnLQ/schema/dreamhouse._cgqOg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4bf534fb-d6ae-48f3-a892-6b97fa93914e/storage_v2/_src_/database/postgres.edMnLQ/schema/dreamhouse._cgqOg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4bf534fb-d6ae-48f3-a892-6b97fa93914e/storage_v2/_src_/database/postgres.edMnLQ/schema/goodreads_v2.G8yOSg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4bf534fb-d6ae-48f3-a892-6b97fa93914e/storage_v2/_src_/database/postgres.edMnLQ/schema/goodreads_v2.G8yOSg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4bf534fb-d6ae-48f3-a892-6b97fa93914e/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4bf534fb-d6ae-48f3-a892-6b97fa93914e/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4bf534fb-d6ae-48f3-a892-6b97fa93914e/storage_v2/_src_/database/postgres.edMnLQ/schema/simple_imdb.Dydpqw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4bf534fb-d6ae-48f3-a892-6b97fa93914e/storage_v2/_src_/database/postgres.edMnLQ/schema/simple_imdb.Dydpqw.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4bf534fb-d6ae-48f3-a892-6b97fa93914e/storage_v2/_src_/database/postgres.edMnLQ/schema/webshop.Stz5SA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4bf534fb-d6ae-48f3-a892-6b97fa93914e/storage_v2/_src_/database/postgres.edMnLQ/schema/webshop.Stz5SA.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goodreadv2_Exercises.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goodreadv2_Exercises.md" beforeDir="false" afterPath="$PROJECT_DIR$/Goodreadv2_Exercises.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,24 +44,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Markdown-Groovy.md.groovy&quot;,
-    &quot;database.data.extractors.current.id&quot;: &quot;Markdown-Groovy.md.groovy&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;grid.search.filter.rows&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ssrue/OneDrive/Pictures/DataSciense SQL/PostgresSQL_Logo.png&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "database.data.extractors.current.export.id": "Markdown-Groovy.md.groovy",
+    "database.data.extractors.current.id": "Markdown-Groovy.md.groovy",
+    "git-widget-placeholder": "master",
+    "grid.search.filter.rows": "true",
+    "last_opened_file_path": "C:/Users/Ssrue/OneDrive - Syddansk Universitet/Cand.Merc (BC)/Data Science for Business/1. Databser/DVD rental/DVD_rental_data.sql",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ssrue\OneDrive - Syddansk Universitet\Cand.Merc (BC)\Data Science for Business\Exercises\Simple IMDb Exercises" />
@@ -80,7 +93,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="My first commit" />
+    <MESSAGE value="Renaming of readme file to Goodreadv2_Exercises.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renaming of readme file to Goodreadv2_Exercises.md" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

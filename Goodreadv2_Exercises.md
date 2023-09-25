@@ -260,8 +260,7 @@ WHERE status = 'read'
     AND profile_id = (SELECT id
                       FROM profile
                       WHERE profile_name = 'Venom_Fate')
-GROUP BY profile_id, profile_name
-;
+GROUP BY profile_id, profile_name;
 ````
 ❗ *Answer*:
 
@@ -313,8 +312,18 @@ GROUP BY title;
 ### Exercise 20
 ❓*How many books have the author Ray Porter co-authored?*
 ````postgresql
-
+SELECT first_name, last_name, count(*)
+FROM author, co_authors
+WHERE author_id = author.id
+    AND first_name = 'Ray' AND last_name = 'Porter'
+GROUP BY first_name, last_name;
 ````
 ❗ *Answer*:
 
+| first\_name | last\_name | count |
+| :--- | :--- | :--- |
+| Ray | Porter | 3 |
+
 ---
+
+
